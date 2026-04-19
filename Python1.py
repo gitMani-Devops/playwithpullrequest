@@ -14,4 +14,12 @@ println(success)
 println (failed)
  }
 
+//second time line added
+C=1
+if(C=0){
+println(success)
+}
+ else{
+println (failed)
+ }
 
